@@ -12,15 +12,15 @@ It is also possible that after processing the statement, the insurance company a
 At this point, the pharmacy can choose to resubmit the rejected items with a new code in the next reimbursement request statement or pass them to the accounting department as costs.
 
 
-**Diagram Descriptions:**
-
-1. Sequence Diagram:
+**Deliveries**
+Based on Above 
+1. Sequence Diagram [must deliver]:
    A sequence diagram will illustrate the interactions and order of events between the different entities involved in the prescription dispense and reimbursement process, such as the pharmacy, patient, and insurance company.
 
-2. Domain Model (Class/Object Diagram):
+2. Domain Model (Class/Object Diagram) [nice to deliver]:
    A domain model diagram will showcase the key classes or objects related to the prescription dispense and reimbursement process, including their relationships and attributes.
 
-3. Gherkin Scenarios:
+3. Gherkin Scenarios [must deliver]:
    - Scenario 1: Successful Reimbursement Request
    - Scenario 2: Partial Rejection of Reimbursement Request
    - Scenario 3: Complete Rejection of Reimbursement Request
