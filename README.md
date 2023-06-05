@@ -13,7 +13,8 @@ At this point, the pharmacy can choose to resubmit the rejected items with a new
 
 
 **Deliveries**
-Based on Above 
+Based on Above description please deliver below items in your format of choice in a new Github repository shared with username `mason-chase`
+
 1. Sequence Diagram [must deliver]:
    A sequence diagram will illustrate the interactions and order of events between the different entities involved in the prescription dispense and reimbursement process, such as the pharmacy, patient, and insurance company.
 
