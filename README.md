@@ -11,6 +11,12 @@ It is possible that the insurance company rejects the statement due to technical
 It is also possible that after processing the statement, the insurance company accepts it but partially rejects some items based on pricing policies, or fully rejects some items for other reasons.
 At this point, the pharmacy can choose to resubmit the rejected items with a new code in the next reimbursement request statement or pass them to the accounting department as costs.
 
+Notes:
+
+- Pharmacy directly sends invoices to insurance company, patient reimbursement is not in the scope of the product.
+- If insurance refuses reimbursement request due to the fact that patient is not insured, then patient has to pay for it.
+- If insurance refuses to pay because insurance of the patient at the time of approved dispense was for a different insurance company, then invoice must be routed to new insurance company
+- If insurance reject the items for all other reasons it will become the cost of pharmacy
 
 **Deliveries**
 
