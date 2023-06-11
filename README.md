@@ -22,7 +22,7 @@ Notes:
 
 **Deliveries**
 
-Based on Above description please deliver below items in your format of choice in a new Github repository shared with username `mason-chase`
+Based on Above description please deliver below items in **LucidChart, Visio, FigJam or Diagrams.net (draw.io)** format only in a new Github repository shared with username `mason-chase`
 
 1. Sequence Diagram [must deliver]:
    A sequence diagram will illustrate the interactions and order of events between the different entities involved in the prescription dispense and reimbursement process, such as the pharmacy, patient, and insurance company.
@@ -34,5 +34,4 @@ Based on Above description please deliver below items in your format of choice i
    - Scenario 1: Successful Reimbursement Request
    - Scenario 2: Partial Rejection of Reimbursement Request
    - Scenario 3: Complete Rejection of Reimbursement Request
-
 
