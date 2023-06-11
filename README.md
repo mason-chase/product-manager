@@ -1,5 +1,7 @@
 # Product Manager
 
+Important note: Do not use ChatGPT to create or generate any content of below asignment!
+
 Given pharmacy must bill invoice for all prescription dispenses to patient or insurance company.
 And patient invoices are completed upon deliver (before hand over) when invoice is the patient.
 And invoices to insurance company are sent on the first day of the month.
