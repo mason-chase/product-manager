@@ -12,7 +12,7 @@ On the first day of the month, a reimbursement request is dispatched to the insu
 It is also possible that after processing the statement, the insurance company accepts it but partially rejects some items based on pricing policies, or fully rejects for two reasons:
 1. Patient is not insuranced, in this case pharmacy must issue invoice to the patient.
 2. Patient is insured a different insurance company, in this case pharmacy can resubmit the reimbursement request at another insurance company on the first day of the next month. 
-3. for partially rejected items, pharmacy must absorb the cost differences in its accounting.
+3. For partially rejected items, pharmacy must absorb the cost differences in its accounting.
 
 Notes:
 
