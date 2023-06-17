@@ -9,9 +9,10 @@ And invoices to insurance company are sent on the first day of the month.
 When dispenses are delivered to a patient with an insurance policy, the patient doesn't receive any invoice. Instead, it is added to the reimbursement request statement.
 On the first day of the month, a reimbursement request is dispatched to the insurance company.
 
-It is possible that the insurance company rejects the statement due to technical reasons.
-It is also possible that after processing the statement, the insurance company accepts it but partially rejects some items based on pricing policies, or fully rejects some items for other reasons.
-At this point, the pharmacy can choose to resubmit the rejected items with a new code in the next reimbursement request statement or pass them to the accounting department as costs.
+It is also possible that after processing the statement, the insurance company accepts it but partially rejects some items based on pricing policies, or fully rejects for two reasons:
+A) Patient is not insuranced, in this case pharmacy must issue invoice to the patient.
+B) Patient is insured a different insurance company, in this case pharmacy can resubmit the reimbursement request at another insurance company on the first day of the next month. 
+C) for partially rejected items, pharmacy must absorb the cost differences in its accounting.
 
 Notes:
 
