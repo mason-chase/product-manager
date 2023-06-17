@@ -1,0 +1,16 @@
+Because I am solving an exercise, I will not deal with a series of issues and points, but I will mention some of them as challenges or questions or ambiguities:
+The scope of the problem and its boundaries are not clearly defined. Users or users and their number are not specified precisely. For example, it is not specified whether there is one user or several users in the pharmacy and whether they have different accesses or not. Is there a place for the patient panel or the insurance company in the product or not? Does the interaction between the mentioned entities occur in systems and software or offline?
+Does the patient have to visit the pharmacy in person or is it possible to interact with the pharmacy offline? Is the patient's prescription physical or electronic or both?
+Does the pharmacy send the invoices physically to the insurance company or electronically and through the software?
+Where exactly does the process begin? By visiting or requesting the patient or presenting his invoice to the pharmacy? Or since the beginning of checking the prescription by the pharmacy?
+Is the cost invoice given to only one of the insurance company or the patient or to both of them? Because the word "or" is used?
+What is the share of the patient and the insurance company for paying the fee to the pharmacy? Is the entire cost paid by one party? Is there a franchise or deductible?
+Does the pharmacy inquire about the patient's insurance? Is this possible for the pharmacy?
+If the patient has insurance, is his insurance active/inactive checked or inquired about? Does the pharmacy have access to such a service?
+
+So I've gone through the above scenario with a little bit of simplification to prepare the deliverables.
+Another point is that for a long time I have not used the aforementioned documentation for product documentation and I use other alternatives (for example Service Blue Print or Event Storming). For this reason, according to the time I had, some information recorded in the answer may not be correct. Also, I had never worked with Gherkin language before and had no knowledge of it. I wrote these scenarios with this language for the first time. In the end, I must point out that I have no problem learning new topics and tools, because I always welcome challenges and am a fast learner.
+
+I have done the exercise answer in three pages in a visio format file and uploaded it in the link below.
+
+https://www.dropbox.com/s/kls0g5ivjtsrvwt/pharmacy.vsdx?dl=0
